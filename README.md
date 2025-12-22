@@ -1,7 +1,7 @@
 ## Entusiasta da Tecnologia, e Apaixonado por Programação!
 <div align="center">
   <a href="https://github.com/JoaoArthurM">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoArthurM&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoArthurM&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoArthurM&layout=compact&langs_count=7&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoArthurM&layout=compact&langs_count=5&hide=C&custom_title=Academic%20Languages&theme=github_dark"/>
 </div>
