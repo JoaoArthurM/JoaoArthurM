@@ -1,23 +1,17 @@
-## Entusiasta da Tecnologia, e Apaixonado por Programação!
+## Entusiasta da Tecnologia e Apaixonado por Programação
 
 <div align="center">
   <a href="https://github.com/JoaoArthurM">
 
-  <!-- GitHub Stats (sem ranking e sem número enganoso de commits) -->
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=JoaoArthurM&show_icons=true&theme=github_dark&count_private=true&hide_rank=true"/>
+    <img height="165em"
+         src="https://github-readme-stats.vercel.app/api?username=JoaoArthurM&show_icons=true&theme=github_dark&count_private=true&hide_rank=true"/>
 
-  <!-- Linguagens principais -->
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoArthurM&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="165em"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoArthurM&layout=compact&langs_count=7&theme=github_dark"/>
 
-  <!-- Linguagens acadêmicas (ocultando C dominante) -->
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoArthurM&layout=compact&langs_count=5&hide=C&custom_title=Academic%20Languages&theme=github_dark"/>
-
+  </a>
 </div>
 
-<div style="display: inline_block"><br>
 
   <!-- Badges de tecnologias (MANUAIS) -->
 <div align="center">
