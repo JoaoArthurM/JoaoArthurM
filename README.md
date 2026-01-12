@@ -4,6 +4,8 @@
   <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Pascal" src="https://img.shields.io/badge/Pascal-%23E3F171.svg?style=for-the-badge&logo=pascal&logoColor=black"/> <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white"/>
 </div>
 
+
+
 <div>
 
   <!-- Redes sociais -->
