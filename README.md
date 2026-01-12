@@ -17,7 +17,6 @@
   <a href="https://www.linkedin.com/in/arthur-macedo-956842238/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <!-- Snake animation -->
   <br><br>
   <img src="https://github.com/JoaoArthurM/JoaoArthurM/blob/output/github-snake-dark.svg"/>
