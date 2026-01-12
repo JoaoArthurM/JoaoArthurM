@@ -27,6 +27,6 @@
 
   <!-- Snake animation -->
   <br><br>
-  <img src="https://github.com/JoaoArthurM/JoaoArthurM/blob/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/JoaoArthurM/JoaoArthurM/output/github-snake-dark.svg" />
 
 </div>
