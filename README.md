@@ -2,7 +2,7 @@
 
 <h3><code>arthur@github ~ $ ./contributions.sh</code></h3>
 
-<img src="https://ghchart.rshah.org/39d353/JoaoArthurM" width="860" alt="Arthur's GitHub contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoArthurM&bg_color=0d1117&color=7ee787&line=39d353&point=7ee787&area=true&area_color=0d1117&hide_border=true" width="860" alt="Arthur's GitHub contribution graph" />
 
 <br>
 <br>
